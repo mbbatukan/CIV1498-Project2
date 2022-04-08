@@ -4,7 +4,7 @@
 
 * It may be a good idea to upload figures to different folders.
 
-    * E.g., Mehmet Batukan uploads to the folder named "MB".
+    * E.g., Albert Einstein uploads to the folder named "AE".
 
 * Please use clear and explanatory names for each figure. 
 
