@@ -9,17 +9,17 @@
 4.	“totBuildingDataLines == 1” from “totBuildingDataLines” column
 
 5.	“["0100", "0101", "0103", "0104"]” from “PropertyUseCode” column
-    a.	See columns for more information
+    * See columns for more information
     
 6.	Rows with [“Public (non-taxable government-owned)”, "Public Entity (Green Code)", “"State Board of Equilization Assessed"] were all removed from “SpecialParcelClassification” column
-    a.	It basically means that dataset only includes “Private” parcels
+    * It basically means that dataset only includes “Private” parcels
     
 7.	The percentage of taxable parcels in the dataset (verified from “isTaxableParcel?” column)
-    a.	100%
+    * 100%
 
 8.	 The remaining parcels were filtered based on the “ZIPcode5” column to just include Los Angeles City Zip codes.
-    a.	LA Zip codes can be accessed from the following link:
-    https://geohub.lacity.org/datasets/lahub::los-angeles-city-zip-codes/explore?location=34.021109%2C-118.411777%2C11.28
+    * LA Zip codes can be accessed from the following link:
+    * https://geohub.lacity.org/datasets/lahub::los-angeles-city-zip-codes/explore?location=34.021109%2C-118.411777%2C11.28
 
 9.	 “[“RollYear” == 2021]” from “RollYear” column to get the most recent data for “LandValue” and “TotalValue”.
 
@@ -33,10 +33,10 @@
 5.	“Bedrooms” (int)
 6.	“Bathrooms” (int)
 7.	“PropertyUseCode” = (object)
-    a.	No Pool (“100”)
-    b.	Pool (“101”) 
-    c.	Pool and Miscellaneous (“103”)
-    d.	Therapy Pool (“104”)
+    * No Pool (“100”)
+    * Pool (“101”) 
+    * Pool and Miscellaneous (“103”)
+    * Therapy Pool (“104”)
 8.	“YearBuilt” = (int)
 9.	“EfectiveYearBuilt” = (int)
 10.	“TaxRateArea” = Haven’t checked what that means (int)

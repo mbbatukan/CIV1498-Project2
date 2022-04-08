@@ -7,25 +7,25 @@
 ## Quick links: 
 
 1. LA County Assessor Parcels Data - 2006 thru 2021
-    a. https://data.lacounty.gov/Parcel-/Assessor-Parcels-Data-2006-thru-2021/9trm-uz8i
+    * https://data.lacounty.gov/Parcel-/Assessor-Parcels-Data-2006-thru-2021/9trm-uz8i
 
 2. LA County City Boundaries
-    a. https://controllerdata.lacity.org/dataset/City-Boundaries-for-Los-Angeles-County/sttr-9nxz
+    * https://controllerdata.lacity.org/dataset/City-Boundaries-for-Los-Angeles-County/sttr-9nxz
 
 3. LA County Parcel Boundaries
-    a. https://hub.arcgis.com/datasets/lahub::la-county-parcels/explore
+    * https://hub.arcgis.com/datasets/lahub::la-county-parcels/explore
     
 4. LA County Supervisorial Districts Boundaries
-    a. https://data.lacounty.gov/GIS-Data/Supervisorial-District-2011-/krcx-r26t
+    * https://data.lacounty.gov/GIS-Data/Supervisorial-District-2011-/krcx-r26t
     
 5. LA City Neighborhoods
-    a. https://geohub.lacity.org/datasets/d6c55385a0e749519f238b77135eafac
+    * https://geohub.lacity.org/datasets/d6c55385a0e749519f238b77135eafac
 
 6. LA City Postal Codes
-    a. https://geohub.lacity.org/datasets/lahub::los-angeles-city-zip-codes/explore
+    * https://geohub.lacity.org/datasets/lahub::los-angeles-city-zip-codes/explore
     
 7. LA City Subway Stops
-    a. https://geohub.lacity.org/datasets/lahub::metro-rail-lines-stops/about
+    * https://geohub.lacity.org/datasets/lahub::metro-rail-lines-stops/about
     
 8. LA City Bus Benches
-    a. https://geohub.lacity.org/maps/lahub::bus-stop-benches
+    * https://geohub.lacity.org/maps/lahub::bus-stop-benches
