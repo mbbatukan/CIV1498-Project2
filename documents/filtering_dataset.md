@@ -18,8 +18,7 @@
     * 100%
 
 8.	 The remaining parcels were filtered based on the “ZIPcode5” column to just include Los Angeles City Zip codes.
-    * LA Zip codes can be accessed from the following link:
-    * https://geohub.lacity.org/datasets/lahub::los-angeles-city-zip-codes/explore?location=34.021109%2C-118.411777%2C11.28
+    * LA Zip codes can be accessed from the following link: https://geohub.lacity.org/datasets/lahub::los-angeles-city-zip-codes/explore?location=34.021109%2C-118.411777%2C11.28
 
 9.	 “[“RollYear” == 2021]” from “RollYear” column to get the most recent data for “LandValue” and “TotalValue”.
 
