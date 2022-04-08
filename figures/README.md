@@ -2,7 +2,7 @@
 
 ## This folder contains figures and plots.
 
-* It may be good idea to upload figures to different folders.
+* It may be a good idea to upload figures to different folders.
 
     * E.g., Mehmet Batukan uploads to the folder named "MB".
 
