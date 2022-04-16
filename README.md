@@ -1,8 +1,4 @@
-# CIV1498 - Project2
-
-
-## Group name: 
-
+# Exploratory Data Analysis of Los Angeles City Parcels
 
 ## Quick links: 
 
