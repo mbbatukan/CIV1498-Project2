@@ -1,1 +1,0 @@
- # These regression plots were created using df_LA_parcels_LAcity_cleaned_REV2_MB.pkl
